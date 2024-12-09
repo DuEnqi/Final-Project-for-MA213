@@ -12,7 +12,7 @@
   }
 function printInput() {
  
-  const input = document.getElementById("userInput").value;
+  const input = document.getElementById("input3").value;
 
   console.log("User Input:", input);
 }
