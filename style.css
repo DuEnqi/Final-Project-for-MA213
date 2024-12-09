@@ -26,6 +26,10 @@
     font-family: "Marcellus";
     src: url("font/Marcellus-Regular.ttf");
   }
+#cvbody{
+background-color: #000752;
+  background-image:url("img/blueeee.jpg");
+}
   @font-face {
     font-family: "CastoroTitling";
     src: url("font/CastoroTitling-Regular.ttf");
