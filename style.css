@@ -1550,6 +1550,12 @@ grid-area: 1/1/6/4;
       text-align: end;
       font-family: "LibreCaslonDisplay";
     }
+#pimain{
+background-color: #3D0101;
+background-image: url("img/reddd.jpg");
+padding-top: 1%;
+padding-left: 2%;
+  
 #portfoliogrid{
   filter: grayscale(100%);
 }
