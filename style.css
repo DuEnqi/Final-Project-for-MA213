@@ -1564,3 +1564,5 @@ background-color: #000752;
 #portfoliogrid{
   filter: grayscale(100%);
 }
+#item8{
+     grid-column:4/-1;  
