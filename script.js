@@ -10,7 +10,12 @@
     menu.classList.toggle("close");
     nav.classList.toggle("open");
   }
+function printInput() {
+ 
+  const input = document.getElementById("userInput").value;
 
+  console.log("User Input:", input);
+}
  /* window.addEventListener("scroll",setScrollVar)
 window.addEventListener("resize",setScrollVar)
 
