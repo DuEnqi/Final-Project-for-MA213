@@ -26,10 +26,7 @@
     font-family: "Marcellus";
     src: url("font/Marcellus-Regular.ttf");
   }
-#cvbody{
-background-color: #000752;
-  background-image:url("img/blueeee.jpg");
-}
+
   @font-face {
     font-family: "CastoroTitling";
     src: url("font/CastoroTitling-Regular.ttf");
@@ -1559,7 +1556,11 @@ background-color: #3D0101;
 background-image: url("img/reddd.jpg");
 padding-top: 1%;
 padding-left: 2%;
-  
+}
+#cvbody{
+background-color: #000752;
+  background-image:url("img/blueeee.jpg");
+}
 #portfoliogrid{
   filter: grayscale(100%);
 }
